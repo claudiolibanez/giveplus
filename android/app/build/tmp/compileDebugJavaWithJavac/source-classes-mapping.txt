@@ -1,0 +1,14 @@
+com/giveplus/MainApplication.java
+ com.giveplus.MainApplication
+ com.giveplus.MainApplication$1
+com/giveplus/MainActivity.java
+ com.giveplus.MainActivity
+com/giveplus/BuildConfig.java
+ com.giveplus.BuildConfig
+com/giveplus/ReactNativeFlipper.java
+ com.giveplus.ReactNativeFlipper
+ com.giveplus.ReactNativeFlipper$1
+ com.giveplus.ReactNativeFlipper$2
+ com.giveplus.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

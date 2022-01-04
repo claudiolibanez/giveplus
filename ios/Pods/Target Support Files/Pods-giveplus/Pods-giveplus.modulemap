@@ -1,0 +1,6 @@
+module Pods_giveplus {
+  umbrella header "Pods-giveplus-umbrella.h"
+
+  export *
+  module * { export * }
+}

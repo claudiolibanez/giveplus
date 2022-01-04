@@ -1,0 +1,9 @@
+objc[42139]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib (0x1e4083130) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1080dc2c8). One of the two will be used. Which one is undefined.
+objc[42139]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib (0x1e4083180) and /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/MobileDevice (0x1080dc318). One of the two will be used. Which one is undefined.
+** BUILD FAILED **
+
+
+The following build commands failed:
+	CompileSwift normal x86_64 /Users/claudiosoares/www/adcdigital/giveplus/node_modules/@nozbe/watermelondb/native/ios/WatermelonDB/DatabaseBridge.swift (in target 'WatermelonDB' from project 'Pods')
+	CompileSwiftSources normal x86_64 com.apple.xcode.tools.swift.compiler (in target 'WatermelonDB' from project 'Pods')
+(2 failures)

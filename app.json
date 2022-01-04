@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "giveplus",
+    "slug": "giveplus",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "giveplus"
+}
